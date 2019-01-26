@@ -1,6 +1,6 @@
 {
   "name": "weather-gov-api",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "homepage": "https://github.com/ividrine/weather-gov-api#readme",
   "main": "index.js",

@@ -1,4 +1,1 @@
-require('@babel/register')({
-    presets: [ '@babel/env' ]
-});
-require('./Weather');
+module.exports = require('./Weather.js')();

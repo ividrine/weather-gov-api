@@ -23,8 +23,5 @@
   },
   "dependencies": {
     "axios": "^0.18.0"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.2.2"
   }
 }

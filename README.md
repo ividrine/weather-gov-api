@@ -29,12 +29,3 @@ weather.getForecast('default', 40.712776, -74.005974)
 ## Documentation
 [Wiki](https://github.com/ividrine/weather-gov-api/wiki/Documentation)
 
-## Author
-
-[idvidrine](https://github.com/idvidrine)
-
-See also the list of [contributors](https://github.com/ividrine/weather-gov-api/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details

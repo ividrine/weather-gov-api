@@ -1,4 +1,4 @@
-﻿# weather-gov-api
+# weather-gov-api
 
 A javascript class wrapping [weather.gov api](https://www.weather.gov/documentation/services-web-api)
 
